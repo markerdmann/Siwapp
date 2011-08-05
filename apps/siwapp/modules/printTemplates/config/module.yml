@@ -1,0 +1,8 @@
+all:
+  urls:
+    include: []
+    variables:
+      editRow: printTemplates/edit
+      showRow: printTemplates/edit
+      setAsDefault: @templates?action=setAsDefault
+      deleteAction:  @templates?action=delete

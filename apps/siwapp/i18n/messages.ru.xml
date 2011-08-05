@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+  <file original="global" source-language="en" target-language="en" datatype="plaintext" date="2010-10-22T14:15:19Z">
+    <body>
+      <!-- ##### LOGIN ##### -->
+      <trans-unit id="1">
+        <source>Username</source>
+        <target>Логин</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Password</source>
+        <target>Пароль</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Remember me</source>
+        <target>Запомнить</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Sign in</source>
+        <target>Войти</target>
+      </trans-unit>
+      <!-- ##### HEADER & NAVIGATION ##### -->
+      <trans-unit id="7">
+        <source>Settings</source>
+        <target>Настройки</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Logout</source>
+        <target>Выйти</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>New Invoice</source>
+        <target>Новый счет</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Dashboard</source>
+        <target>Панель управления</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invoices</source>
+        <target>Счета</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Recurring Invoices</source>
+        <target>Периодические счета</target>
+      </trans-unit>
+      <!-- ##### PAGER & SEARCH ##### -->
+      <trans-unit id="13">
+        <source>First</source>
+        <target>Первая</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Prev</source>
+        <target>Предыдущая</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>PAGE</source>
+        <target>Страница</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Next</source>
+        <target>Следующая</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Last</source>
+        <target>Последняя</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>go to </source>
+        <target>перейти к</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Go</source>
+        <target>Вперед</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Search</source>
+        <target>Поиск</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Reset</source>
+        <target>Очистить</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit id="22">
+        <source>Recent invoices</source>
+        <target>Новые счета</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Past due invoices</source>
+        <target>Просроченные счета</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Open</source>
+        <target>Открыть</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Receipts</source>
+        <target>Доходы</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Due</source>
+        <target>Задолженность</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Overdue</source>
+        <target>Просроченные</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Number</source>
+        <target>Номер</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Customer Name</source>
+        <target>Покупатель</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Date</source>
+        <target>Дата</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Due Date</source>
+        <target>Срок оплаты</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Status</source>
+        <target>Статус</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Edit</source>
+        <target>Править</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Payments</source>
+        <target>Платежи</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit id="37">
+        <source>Opened</source>
+        <target>Открытые</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Closed</source>
+        <target>Закрытые</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Drafts</source>
+        <target>Черновики</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Delete</source>
+        <target>Удалить</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Print</source>
+        <target>Напечатать</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Save PDF</source>
+        <target>Сохранить PDF</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Send</source>
+        <target>Отправить</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Add payment</source>
+        <target>Добавить платеж</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Save</source>
+        <target>Сохранить</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Save and send by e-mail</source>
+        <target>Сохранить и отправить e-mail</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>New Invoice</source>
+        <target>Новый счет</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Client info</source>
+        <target>Данные клиента</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Payment details</source>
+        <target>Датали платежа</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Description</source>
+        <target>Описание</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Unit cost</source>
+        <target>Цена</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Qty</source>
+        <target>Количество</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Taxes</source>
+        <target>Налог</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Discount</source>
+        <target>Скидка</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Price</source>
+        <target>Цена</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Add Item</source>
+        <target>Добавить</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Notes</source>
+        <target>Примечание</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Tags</source>
+        <target>Теги</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Add</source>
+        <target>Добавить</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Customer</source>
+        <target>Клиент</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Customer identification</source>
+        <target>Идентифи</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Contact person</source>
+        <target>Контактное лицо</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Invoicing address</source>
+        <target>Адрес плательщика</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Shipping address</source>
+        <target>Адрес доставки</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Issued at</source>
+        <target>Выдано в</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>will become overdue at</source>
+        <target>станут просроченными</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit id="73">
+        <source>New Recurring Invoice</source>
+        <target>Новый периодический счет</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>Enabled</source>
+        <target>Активен</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Disabled</source>
+        <target>Неактивен</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>Active</source>
+        <target>Актив.</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Name</source>
+        <target>Имя</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit id="83">
+        <source>more</source>
+        <target>больше</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Company</source>
+        <target>Компания</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Legal texts</source>
+        <target>Текст соглашения</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Invoicing taxes</source>
+        <target>Налоги</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Add a new tax value</source>
+        <target>Добавить новый налог</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Invoicing series</source>
+        <target>Серии счетов</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Add a new series value</source>
+        <target>Добавить новую серию</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Global settings</source>
+        <target>Настройки</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>My settings</source>
+        <target>Мои настройки</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Total</source>
+        <target>Итог</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>This amount is not reflected in the total</source>
+        <target>Эта сумма не учитывается в итог</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Unit Cost</source>
+        <target>Цена за ед.</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Base</source>
+        <target>Base</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Subtotal</source>
+        <target>Подитог</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Are you sure?</source>
+        <target>Уверены?</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Save as draft</source>
+        <target>Сохранить как черновик</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Invoice</source>
+        <target>Счет</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Payments were saved successfully.</source>
+        <target>Платежи сохранены.</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>Платежи НЕ сохранены. Неизвестная ошибка.</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>You don't have the required permission to access this page.</source>
+        <target>У вас нет доступа к этой странице.</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>Invoice Execution Time</source>
+        <target>Время выполнение счета</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Показано [1]-[2] из [3] результатов</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>PDF Settings</source>
+        <target>Настройки PDF</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>Cancel</source>
+        <target>Отменить</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Currency</source>
+        <target>Валюта</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Address</source>
+        <target>Адрес</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Phone</source>
+        <target>Телефон</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Page size</source>
+        <target>Размер страницы</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Page orientation</source>
+        <target>Ориентация страницы</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>First Name</source>
+        <target>Имя</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Last Name</source>
+        <target>Фамилия</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Default date filter</source>
+        <target>Фильтр по дате</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Default invoicing series</source>
+        <target>Серия счетов по умолчанию</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>last week</source>
+        <target>прошлую неделю</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>last month</source>
+        <target>прошлый месяц</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>last year</source>
+        <target>за год</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>last 5 years</source>
+        <target>за 5 лет</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>from</source>
+        <target>от</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>to</source>
+        <target>до</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Edit Invoice</source>
+        <target>Редактировать счет</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>Edit Recurring Invoice</source>
+        <target>Редактировать переодические счета</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Series</source>
+        <target>Серия</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>Your settings were successfully saved.</source>
+        <target>Настройки сохранены.</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>view all [1] invoices</source>
+        <target>просмотреть все [1] счета</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>Счет не сохранен. Возникла ошибка.</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Client Name</source>
+        <target>Имя Клиента</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>Client Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>Contact Person</source>
+        <target>Контактное лицо</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>Invoicing Address</source>
+        <target>Адрес плательщика</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Shipping Address</source>
+        <target>Адрес доставки</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Printing templates</source>
+        <target>Распечатать шаблон</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Default</source>
+        <target>По умолчанию</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>Настройки не сохранены. Проверте и исправте значения.</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Your settings were successfully saved.</source>
+        <target>Настройки сохранены.</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>The template was successfully saved.</source>
+        <target>Шаблон сохранен.</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Исправте следующие ошибки перед тем как сохранить:</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>No results</source>
+        <target>Безрезультатно</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Welcome, [1]!</source>
+        <target>Добро пожаловать [1]!</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>New Customer</source>
+        <target>Новый покупатель</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Customers</source>
+        <target>Покупатели</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Can't connect to database</source>
+        <target>Ошибка подключения к базе даных</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Check your e-mail for your new password.</source>
+        <target>Ваш пароль отправлен вам на E-mail</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Возникла проблема с системой сообщений. Попробуйте позже.</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Wrong hash code</source>
+        <target>Неправильный хеш код</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Sample data has been loaded.</source>
+        <target>Демо данные загружены</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Если вы указали сушествующий логин или E-mail, вам отправлена инструкция по активации</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target>Если вы хотите повторно получить письмо активации, необходимо сначала перезагрузить страницу</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Forgot your password?</source>
+        <target>Забыли пароль?</target>
+      </trans-unit>
+      <trans-unit id="196">
+        <source>close</source>
+        <target>Закрыть</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Введите логин или email, и мы отправим письмо с ссылкой активации</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>Username or email</source>
+        <target>Логин или email</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Terms &amp; Conditions</source>
+        <target>Условия использования</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>Value</source>
+        <target>Значение</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Label</source>
+        <target>Ярлык</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Initial value</source>
+        <target>Начальное значение</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>Начальное значение будет использовано для первого счета </target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>About you</source>
+        <target>О вас </target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Change your password</source>
+        <target>Изменить пароль</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>Translate the application</source>
+        <target>Перевод приложения</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Make it easy</source>
+        <target>Сделать просто </target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>The template has not been saved due to some errors.</source>
+        <target>Шаблон не сохранен, возникла ошибка </target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Updated at</source>
+        <target>Обновлено:</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Create new template</source>
+        <target>Создать шаблон</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Delete selected</source>
+        <target>Удалить выбранное </target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Mark as default</source>
+        <target>Сделать по умолчанию</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>У вас  %d  неоплаченных переодических счетов</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Client Legal Id</source>
+        <target>ID клиента </target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>Client Address</source>
+        <target>Адрес клиента</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>All %d recurring invoices were processed.</source>
+        <target>Все %d переодических счета обработаны</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>Starting</source>
+        <target>Начиная</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>Finishing</source>
+        <target>Заканчивая </target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>Average turnover</source>
+        <target> Средний оборот</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>day</source>
+        <target>день</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>week</source>
+        <target>неделя</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>month</source>
+        <target>месяц </target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>year</source>
+        <target>год</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Generate pending invoices now</source>
+        <target>Сгенерировать ожидающие счета</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Pending</source>
+        <target>Ожидают </target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Finished</source>
+        <target>Завершен </target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>The invoice was successfully sent.</source>
+        <target>Счет отправлен </target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>The invoice could not be sent due to an error.</source>
+        <target>Счет не отправлен из-за неизвесной ошибки</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d счетов удалено</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>%d invoices were successfully sent.</source>
+        <target>%d счетов отправлено </target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Edit Customer</source>
+        <target>Редактировать покупателя </target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>The customer could not be deleted. </source>
+        <target>Покупатель не может быть удален</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>The customer has not been saved due to some errors.</source>
+        <target>Покупатель не сохранен. Возникла ошибка.</target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>%d customers were successfully deleted.</source>
+        <target>%d покупателей не удалено </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Тип периода</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Переодичность</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>Не отправлен </target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>FAX</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>Веб</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Логотип </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>Язык интерфейса </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Результатов отображено</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Поиск</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Старый пароль</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Новый пароль</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Новый пароль (повторите)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>удалить текущий файл</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>открытые</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>закрытые</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>просроченные</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>черновики</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>активные</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>неактивные</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>завершенные</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>в ожидании</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>Лет</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Месяцев</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Дней</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>ежегодно</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>ежемесячно</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>ежедневно</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>еженедельно</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Серия</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Создавать каждые</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Дата начала</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Дата окончания</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Максимальное количество выставлений счета</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Счет действителен</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Отправить по email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Force to be closed</source>
+        <target>Быстро закрыть</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Дата выставления</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Срок действия</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>The invoice was successfully saved.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>There is a problem with invoice %s</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

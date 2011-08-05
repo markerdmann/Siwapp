@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="it" datatype="plaintext" original="messages" date="2010-10-22T14:15:14Z" product-name="messages" xml:space="default">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Username</source>
+        <target>Потребител</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Password</source>
+        <target>Парола</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Remember me</source>
+        <target>Запомни ме</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Sign in</source>
+        <target>Вход</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Settings</source>
+        <target>Настройки</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Logout</source>
+        <target>Изход</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>New Invoice</source>
+        <target>Нова Фактура</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Dashboard</source>
+        <target>Обща Информация</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invoices</source>
+        <target>Фактури</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Recurring Invoices</source>
+        <target>Периодични Фактури</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>First</source>
+        <target>Първа</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Prev</source>
+        <target>Предишна</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>PAGE</source>
+        <target>Стр.</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Next</source>
+        <target>Следваща</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Last</source>
+        <target>Последна</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>go to </source>
+        <target>отиди на </target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Go</source>
+        <target>Отиди</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Search</source>
+        <target>Търси</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Reset</source>
+        <target>Изчисти</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Recent invoices</source>
+        <target>Последни фактури</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Past due invoices</source>
+        <target>Минали дължими фактури</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Receipts</source>
+        <target>Постъпления</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Due</source>
+        <target>Дължими</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Overdue</source>
+        <target>Просрочени</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Number</source>
+        <target>Номер</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Customer Name</source>
+        <target>Име на Клиент</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Date</source>
+        <target>Дата</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Due Date</source>
+        <target>Дата на Плащане</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Status</source>
+        <target>Статус</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Edit</source>
+        <target>Редактирай</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Payments</source>
+        <target>Плащания</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Opened</source>
+        <target>Отворени</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Closed</source>
+        <target>Затворени</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Drafts</source>
+        <target>Чернови</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Delete</source>
+        <target>Изтрий</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Print</source>
+        <target>Разпечатай</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Save PDF</source>
+        <target>Запази PDF</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Send</source>
+        <target>Изпрати</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Add payment</source>
+        <target>Добави Плащане</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Save</source>
+        <target>Запази</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Save and send by e-mail</source>
+        <target>Запази и изпрати на e-mail</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>New Invoice</source>
+        <target>Нова Фактура</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Client info</source>
+        <target>Информация клиент</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Payment details</source>
+        <target>Детайли за плащане</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Description</source>
+        <target>Описание</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Unit cost</source>
+        <target>Цена на единица</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Qty</source>
+        <target>К-во</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Taxes</source>
+        <target>Данъци</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Discount</source>
+        <target>Отстъпка</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Price</source>
+        <target>Цена</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Add Item</source>
+        <target>Добави Елемент</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Notes</source>
+        <target>Бележки</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Tags</source>
+        <target>Тагове</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Add</source>
+        <target>Добави</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Customer</source>
+        <target>Клиент</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Customer identification</source>
+        <target>Идентификация Клиент</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Contact person</source>
+        <target>Лице за контакт</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Invoicing address</source>
+        <target>Фактура адрес</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Shipping address</source>
+        <target>Адрес на доставка</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Issued at</source>
+        <target>Издаден на</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>will become overdue at</source>
+        <target>ще изтече на</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>New Recurring Invoice</source>
+        <target>Нова Периодична Фактура</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>Enabled</source>
+        <target>Enabled</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Disabled</source>
+        <target>Disabled</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>Active</source>
+        <target>Активен</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Name</source>
+        <target>Име</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>more</source>
+        <target>още</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Company</source>
+        <target>Компания</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Legal texts</source>
+        <target>Правни текстове</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Invoicing taxes</source>
+        <target>Фактури данъци</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Add a new tax value</source>
+        <target>Добави нова стойност за данък</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Invoicing series</source>
+        <target>Фактуриране серия</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Add a new series value</source>
+        <target>Добави нова стойност за серия</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Global settings</source>
+        <target>Глобални настройки</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>My settings</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Total</source>
+        <target>Общо</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>This amount is not reflected in the total</source>
+        <target>Тази стойност не е отразена в общата</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Unit Cost</source>
+        <target>Единица цена</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Base</source>
+        <target>Основа</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Subtotal</source>
+        <target>Междинна сума</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Are you sure?</source>
+        <target>Сигурни ли сте?</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Save as draft</source>
+        <target>Запази чернова</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Invoice</source>
+        <target>Фактура</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Payments were saved successfully.</source>
+        <target>Плащанията бяха запазени успешно.</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>Плащанията не успяха да бъдат запазени поради грешка.</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>You don't have the required permission to access this page.</source>
+        <target>Нямате права да достъпите тази страница.</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>Invoice Execution Time</source>
+        <target>Вземе за изпълнение на фактура</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Показва [1]-[2] от [3] резултата</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>PDF Settings</source>
+        <target>Настройки PDF</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>Cancel</source>
+        <target>Откажи</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Currency</source>
+        <target>Валута</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Address</source>
+        <target>Адрес</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Phone</source>
+        <target>Телефон</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Page size</source>
+        <target>Големина на страница</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Page orientation</source>
+        <target>Ориентация на страница</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>First Name</source>
+        <target>Име</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Last Name</source>
+        <target>Фамилия</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Default date filter</source>
+        <target>Филтър по подразбиране за дата</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>last week</source>
+        <target>последна седмица</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>last month</source>
+        <target>последен месец</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>last year</source>
+        <target>последна година</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>last 5 years</source>
+        <target>последни 5 години</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>from</source>
+        <target>от</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>to</source>
+        <target>до</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Edit Invoice</source>
+        <target>Редактирай Фактура</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>Edit Recurring Invoice</source>
+        <target>Редактирай Повтаряща Фактура</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Series</source>
+        <target>Серии</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>Your settings were successfully saved.</source>
+        <target>Настройките бяха запазени успешно.</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>view all [1] invoices</source>
+        <target>виж всички [1] фактури</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>Фактурата не беше запазена поради грешки.</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Client Name</source>
+        <target>Клиент Име</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>Client Email</source>
+        <target>Email Клиент</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>Contact Person</source>
+        <target>Лице за Контакт</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>Invoicing Address</source>
+        <target>Фактура Адрес</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Shipping Address</source>
+        <target>Адрвс за доставка</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Printing templates</source>
+        <target>Шаблони за принтиране</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Default</source>
+        <target>По подразбиране</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>Настройките не са запазени. Моля проверете въведените данни и ги поправете.</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Your settings were successfully saved.</source>
+        <target>Настройките бяха запазени успешно</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Моля вижте грешките и ги поправете преди да запазите:</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>No results</source>
+        <target>Няма резултати</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Welcome, [1]!</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>New Customer</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Customers</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Can't connect to database</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Check your e-mail for your new password.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Wrong hash code</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Sample data has been loaded.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Forgot your password?</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="196">
+        <source>close</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>Username or email</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Terms &amp; Conditions</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>Value</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Label</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Initial value</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>About you</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Change your password</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>Translate the application</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Make it easy</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>The template has not been saved due to some errors.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Updated at</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Create new template</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Delete selected</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Mark as default</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Client Legal Id</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>Client Address</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>All %d recurring invoices were processed.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>Starting</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>Finishing</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>Average turnover</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>day</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>week</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>month</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>year</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Generate pending invoices now</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Pending</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Finished</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>The invoice was successfully sent.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>The invoice could not be sent due to an error.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>%d invoices were successfully deleted.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>%d invoices were successfully sent.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>PDF</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Edit Customer</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>The customer could not be deleted. </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>The customer has not been saved due to some errors.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>%d customers were successfully deleted.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>The invoice was successfully saved.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>There is a problem with invoice %s</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
