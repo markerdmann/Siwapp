@@ -1,0 +1,27 @@
+#!/usr/bin/python
+
+import re
+import json
+
+with open('/home/dotcloud/environment.json') as f:
+    env = json.loads(f.read())
+
+db_settings_path = '/home/dotcloud/code/config/databases.yml'
+with open(db_settings_path) as f:
+    db_settings = f.read()
+with open(db_settings_path, 'w') as f:
+    host = env['DOTCLOUD_MYSQL_MYSQL_HOST']
+    port = env['DOTCLOUD_MYSQL_MYSQL_PORT']
+    password = env['DOTCLOUD_MYSQL_MYSQL_PASSWORD']
+    dsn = 'mysql:host={0};port={1};dbname=siwapp'.format(host, port)
+    output = re.sub(r'(?<=dsn: \').+(?=\')', dsn, db_settings)
+    output = re.sub(r'(?<=username: \').+(?=\')', 'root', output)
+    output = re.sub(r'(?<=password: \').+(?=\')', password, output)
+    f.write(output)
+
+config_path = '/home/dotcloud/code/web/config.php'
+with open(config_path) as f:
+    config = f.read()
+with open(config_path, 'w') as f:
+    output = re.sub('sw_installed = false', 'sw_installed = true', config)
+    f.write(output)
