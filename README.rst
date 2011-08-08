@@ -17,6 +17,6 @@ And push it to DotCloud::
 Happy hacking! Remember: each time you modify something, you need to
 git add + git commit your changes before doing "dotcloud push".
 
-Would You Like To Know More? Have a look at the `DotCloud documentations 
-<http://docs.dotcloud.com/>`_, especially the one for the `Python service
-<http://docs.dotcloud.com/services/python/>`_ which is used by this app.
+Would You Like To Know More? Have a look at the `DotCloud documentation 
+<http://docs.dotcloud.com/>`_, especially the one for the `PHP service
+<http://docs.dotcloud.com/services/php/>`_ which is used by this app.
