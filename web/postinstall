@@ -2,6 +2,7 @@
 
 import re
 import json
+import subprocess
 
 with open('/home/dotcloud/environment.json') as f:
     env = json.loads(f.read())
@@ -25,3 +26,5 @@ with open(config_path) as f:
 with open(config_path, 'w') as f:
     output = re.sub('sw_installed = false', 'sw_installed = true', config)
     f.write(output)
+
+subprocess.call(['php', '/home/dotcloud/current/load_schema.php'])
